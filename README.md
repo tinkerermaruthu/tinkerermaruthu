@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tinkerermaruthu
-- 👀 I’m interested in Python and Shell Developing
+- 👀 I’m interested in Python and Shell Dev
 - 🌱 I’m currently learning CyberSecurity
 - 💞️ I’m looking to collaborate on Internship
 - 📫 How to reach me maruthupandian.k@icloud.com
